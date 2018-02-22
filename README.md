@@ -8,4 +8,6 @@ The food categories each contain 60-70 appetizing images and include: barbeque, 
 
 This repository contains code and ratings for the stimuli set.
 
+Code and graphs can be found [here](FoodIE_norming.md).
+
 To download the images, please visit the [DSN lab webpage](https://dsn.uoregon.edu/foodIE/)
