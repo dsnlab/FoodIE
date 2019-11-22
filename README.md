@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/122542544.svg)](https://zenodo.org/badge/latestdoi/122542544)
+
 # FoodIE Stimuli
 
 <img src="FoodIE.jpg" width="800">
