@@ -4,7 +4,7 @@
 
 <img src="FoodIE.jpg" width="800">
 
-The Food Images Eugene (FoodIE) stimuli set is a collection of images designed to elicit food cravings. The stimuli set includes 15 categories of foods, each rated only by individuals reporting cravings for that category of food. For each image, participants were asked "how much do you desire to eat the item shown in this picture?" and rated their desire using a 5-point Likert-type scale, where 1 = no desire and 5 = strong desire.
+The Food Images Eugene (FoodIE) stimulus set is a collection of images designed to elicit food cravings. The stimuli set includes 15 categories of foods, each rated only by individuals reporting cravings for that category of food. For each image, participants were asked "how much do you desire to eat the item shown in this picture?" and rated their desire using a 5-point Likert-type scale, where 1 = no desire and 5 = strong desire.
 
 The food categories each contain 60-70 appetizing images and include: barbeque, burgers, candy, cheese, chips, chocolate, cookies, doughnuts, French fries, fruit, fruit desserts, pasta, pizza, and roasted vegetables.
 
@@ -12,4 +12,8 @@ This repository contains code and ratings for the stimuli set.
 
 Code and graphs can be found [here](FoodIE_norming.md).
 
-To download the images, please visit the [DSN lab webpage](https://dsn.uoregon.edu/foodIE/)
+To download the images, please visit the [DSN lab webpage](https://uodsnlab.com/stimuli/foodie)
+
+To cite this stimulus set, please use the following citation:
+
+> Cosme, D., Medina Morales, N., Mobasser, A., & Pfeifer, J. H. (2019). FoodIE stimulus set v1.0. Zenodo. https://doi.org/10.5281/zenodo.3551124
